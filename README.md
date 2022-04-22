@@ -1,1 +1,1 @@
-# HackerRank_22.04.2022
+# HackerRank_to_learn_myself
